@@ -17,7 +17,7 @@ This repository contains also EFI folder with all binaries produced meanwhile. T
 :white_check_mark: MacOS Monterey 12.1 <br />
 :white_check_mark: Processor: AMD Ryzen 3700x :love_letter: (updated to latest patch for monterey)  <br />
 :white_check_mark: Graphics: NVIDIA GTX 760 2GB DDR5 :warning: (should patch using geforce kepler)  <br /> 
-:white_check_mark: Ehernet I225-V <br />
+:white_check_mark: Ehernet I225-V Added Without Kext just adding on boot args "dk.e1000=0" without quotes<br /> 
 :white_check_mark: HDMI audio <br />
 :white_check_mark: All USB <br />
 :white_check_mark: ThunderBolt <br />
