@@ -1,0 +1,1 @@
+# Ryzen-2700x-ASUS-B550A-Gaming-EFI-Monterey
