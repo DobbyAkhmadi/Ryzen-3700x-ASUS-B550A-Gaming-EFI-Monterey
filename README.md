@@ -27,7 +27,8 @@ This repository contains also EFI folder with all binaries produced meanwhile. T
 
 1. [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) - Initial configuration
 2. [AMD Power Gadget](https://github.com/trulyspinach/SMCAMDProcessor) - for monitoring amd ryzen
-3. [HackingTool by Headkaze](https://github.com/headkaze/Hackintool) - to verify settings on running macOS are fine; wasn't always working fine if `EFI` configuration had error on target machine
+3. [Geforce Kepler Patcher](https://github.com/chris1111/Geforce-Kepler-patcher) - for patching nvidia kepler
+4. [HackingTool by Headkaze](https://github.com/headkaze/Hackintool) - to verify settings on running macOS are fine; wasn't always working fine if `EFI` configuration had error on target machine
 
 
 # Official Opencore
