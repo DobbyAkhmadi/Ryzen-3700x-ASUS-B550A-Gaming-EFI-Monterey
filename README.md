@@ -1,4 +1,4 @@
-# Ryzen-2700x-ASUS-B550A-Gaming-EFI-Monterey
+# Ryzen-3700x-ASUS-B550A-Gaming-EFI-Monterey
 
 This is the fully detailed guide on how to create a working Hackintosh machine using:
 
@@ -6,7 +6,7 @@ This is the fully detailed guide on how to create a working Hackintosh machine u
 :small_blue_diamond: OpenCore 0.7.9 <br />
 :small_blue_diamond: Processor: AMD Ryzen 3700x 8 Core 16 Threads <br />
 :small_blue_diamond: RAM: 16 GB 3200 Mhz <br />
-:small_blue_diamond: Graphics: NVIDIA GTX 760 2GB DDR5 <br />
+:small_blue_diamond: Graphics: NVIDIA GTX 760 2GB DDR5 (Zotac Reference) <br />
 :small_blue_diamond: SSD: ADATA 256 GB  <br />
 :small_blue_diamond: SMBIOS: iMacPro 1.1 2017 <br />
 
